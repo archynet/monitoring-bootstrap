@@ -27,10 +27,10 @@ Dans le docker compose j'utilise le réseau de la machine et non le réseau virt
 
 ## grafana
 
-J'ai changé le login/pass par défaut, voici les credentials de grafana :
+Login/pass par défaut :
 
-- login : `unicorn`
-- password : `UnicornsExists!`
+- login : `admin`
+- password : `admin`
 
 ## ouidou
 
